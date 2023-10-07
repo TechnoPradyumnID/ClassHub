@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "69097300397",
+    "firebase_url": "https://class-hub-app-default-rtdb.firebaseio.com",
+    "project_id": "class-hub-app",
+    "storage_bucket": "class-hub-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69097300397:android:d78ad8bf0bf6422651c124",
+        "android_client_info": {
+          "package_name": "com.example.classhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69097300397-6eq291rofamrhbtf1ijoo2pf5ejo47ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.classhub",
+            "certificate_hash": "0aec5607d2942a0be47ef0fc0d3b80935fdab7a1"
+          }
+        },
+        {
+          "client_id": "69097300397-iomejbfhjeitcghhil8porp9hueb9764.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCHqK-lrLJLNjV9-zEDIY2eNedCdyng2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69097300397-iomejbfhjeitcghhil8porp9hueb9764.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
